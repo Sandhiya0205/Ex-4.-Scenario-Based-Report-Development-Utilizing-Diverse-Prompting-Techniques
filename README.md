@@ -1,5 +1,6 @@
 # Ex-4.-Scenario-Based-Report-Development-Utilizing-Diverse-Prompting-Techniques
-## Objective: The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation.
+## Objective: 
+The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation.
 
 ## Algorithm
 
@@ -223,13 +224,13 @@ Chain-of-Thought excels in reasoning-heavy queries.
 
 Scenario-Driven delivers the best results, with natural, empathetic, and personalized support.
 
-Limitations
+## Limitations
 
 The dataset was controlled and may not cover all real-world variations (slang, emotional tone).
 
 Responses tested in English only.
 
-Future Scope
+## Future Scope
 
 Integrate sentiment analysis to adjust tone dynamically.
 
